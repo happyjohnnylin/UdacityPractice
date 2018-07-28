@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">咖啡點餐系統</string>
+    <string name="name">姓名</string>
+    <string name="toppings_title">配料</string>
+    <string name="topping_item_1">奶泡</string>
+    <string name="topping_item_2">巧克力</string>
+    <string name="quantity_title">數量</string>
+    <string name="quantity">1</string>
+    <string name="minus">-</string>
+    <string name="add">+</string>
+    <string name="unit_price_title">單價</string>
+    <string name="unit_price">$5.00</string>
+    <string name="order_button">點餐</string>
+
+    <string name="more_than_100">無法提供單筆超過100杯！敬請見諒！</string>
+    <string name="less_than_1">您已經到達最低數量！</string>
+
+    <string name="order_summary_name">姓名: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">是否添加奶泡？ </string>
+    <string name="order_summary_chocolate"> 是否添加巧克力？ </string>
+    <string name="boolean_true">是</string>
+    <string name="boolean_false">否</string>
+    <string name="order_summary_amount">數量: <xliff:g id="amount">%d</xliff:g></string>
+    <string name="order_summary_total_price">總價: <xliff:g id="priceWithCurrencyTag">%s</xliff:g></string>
+    <string name="thank_you">感謝您！</string>
+</resources>

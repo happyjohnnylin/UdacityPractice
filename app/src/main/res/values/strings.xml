@@ -1,0 +1,26 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Coffee Order System</string>
+    <string name="name">Name</string>
+    <string name="toppings_title">toppings</string>
+    <string name="topping_item_1">Whipped Cream</string>
+    <string name="topping_item_2">Chocolate</string>
+    <string name="quantity_title">quantity</string>
+    <string name="quantity">1</string>
+    <string name="minus">-</string>
+    <string name="add">+</string>
+    <string name="unit_price_title">unit price</string>
+    <string name="unit_price">$5.00</string>
+    <string name="order_button">order</string>
+
+    <string name="more_than_100">You cannot order more than 100 cups!</string>
+    <string name="less_than_1">You cannot order less than 1 cup!</string>
+
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">Add Whipped Cream? </string>
+    <string name="order_summary_chocolate">Add Add Chocolate? </string>
+    <string name="boolean_true">Yes</string>
+    <string name="boolean_false">No</string>
+    <string name="order_summary_amount">Amount: <xliff:g id="amount">%d</xliff:g></string>
+    <string name="order_summary_total_price">Total Price: <xliff:g id="priceWithCurrencyTag">%s</xliff:g></string>
+    <string name="thank_you">Thank You!"</string>
+</resources>
